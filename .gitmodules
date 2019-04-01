@@ -1,0 +1,3 @@
+[submodule "tensorflow"]
+	path = tensorflow
+	url = https://github.com/xldrx/tictac-tensorflow.git
