@@ -1,0 +1,14 @@
+{
+  "worker": [
+    "mlworker00:2222",
+    "mlworker01:2222",
+    "mlworker02:2222",
+    "mlworker03:2222"
+  ],
+  "ps": [
+    "mlps00:2222",
+    "mlps01:2222",
+    "mlps02:2222",
+    "mlps03:2222"
+  ]
+}

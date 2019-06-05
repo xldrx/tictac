@@ -1,0 +1,2 @@
+tensorflow-tracer
+tensorflow >= 1.8
